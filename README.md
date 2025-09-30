@@ -22,7 +22,9 @@
 
 ###
 
-<h2 align="center">Junior Software Developer</h2>
+<div align="center">
+  <img height="200" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InBhcnR5dGltZSIsInRleHQiOiJKdW5pb3IlMjBTb2Z0d2FyZSUyMERldmVsb3BlciIsImlhdCI6MTc1OTE5MDgwNn0.P_RQm8w-H4xcqStL42_LfLFPnauP7vSYaISBwvMN1FQ"  />
+</div>
 
 ###
 
